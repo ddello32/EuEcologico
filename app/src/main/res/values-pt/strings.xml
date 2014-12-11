@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">euecologico2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="select_all">Selecionar todos</string>
+    <string name="ok">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="action_filter" />
+    <string name="action_update" />
+    <string name="categories_already_added">Todas as possíveis categorias já estão adicionadas para esse local.</string>
+    <string name="no_internet_connection">Sem conexão com a internet.</string>
+    <string name="eu_ecologico"><![CDATA[<font color=\'#ffffff\'>Eu Ecológico</font>]]></string>
+    <string name="error_contacting_the_server">Erro ao contatar o servidor - por favor, cheque a sua conexão.</string>
+    <string name="internal_error">Internal error</string>
+    <string name="remove_local">Tem certeza de que quer remover esse local?</string>
+    <string name="markers_successfully_updated">Marcadores atualizados com sucesso.</string>
+    <string name="synchronizing_locations">Sincronizando locais</string>
+    <string name="synchronizing_with_the_server">Sincronizando com o servidor...</string>
+    <string name="confirm_dialog">Diálogo de confirmação</string>
+    <string name="image_description">Imagem da categoria</string>
+    <string name="checkbox_description">Checkbox</string>
+
+</resources>
